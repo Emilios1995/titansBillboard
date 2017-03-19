@@ -1,6 +1,6 @@
 # Titans' Billboard
 
-This is a chrome extension that shows answers to the question "If you had a huge billboard, what would you put on it?" asked on the Tim Ferriss Show
+This is the codeused to make a [chrome extesion](https://chrome.google.com/webstore/detail/titans-billboard/hhlkinjhggikceamfgghhmeglglkbkeochrome) that shows answers to the question "If you had a huge billboard, what would you put on it?" asked on the Tim Ferriss Showssfdasdfsdfa
 
 It was done using a semi-automatic approach
 
